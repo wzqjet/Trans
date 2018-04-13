@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trans</string>
+    <string name="action_settings">设置</string>
+    <string name="point_key">输入关键字</string>
+    <string name="clear">清除</string>
+    <string name="ed_hint">请输入内容</string>
+</resources>
